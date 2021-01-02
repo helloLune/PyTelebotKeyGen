@@ -23,7 +23,8 @@ def send_welcome(message):
 		message, 
 		"👋 Sup, i\'m keygen bot.\n"+
 		"⚙️ I can generate key with any length.\n"+
-		"📍 Choose length & enjoy:)",
+		"📍 Choose length & enjoy:)\n"+
+		"👨🏻‍💻 Author: @hoku_listik",
 		reply_markup=btns
 	)
 

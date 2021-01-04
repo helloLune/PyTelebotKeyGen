@@ -1,0 +1,8 @@
+{	
+	"config": {
+		"token": "1436702729:AAHgmPv-EJnV9CY0-3TEf-4jPbasCiiFNuA"
+	},
+	"src": {
+		"start_message": "m.commands=['/start'].Inline[About|about] [+] So, hi"
+	}
+}
